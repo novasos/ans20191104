@@ -1,0 +1,7 @@
+Palo Alto:
+ - blocking 0.0.0.0
+ - allow 192.168.*
+ - allow 10.*
+ - allow 10
+
+
